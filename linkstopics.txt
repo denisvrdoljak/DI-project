@@ -1,0 +1,5 @@
+large set, bigrams
+https://github.com/denisvrdoljak/DI-project/raw/master/bigrams-largeset.png
+
+dev set, word pairs
+https://github.com/denisvrdoljak/DI-project/raw/master/wordpairs-testset.png
